@@ -1,5 +1,5 @@
 # kitaplik
-Python'un Tkinder GUI kütüphanesi kullanılarak yazılmış bir kitaplık uygulaması.
+Python'un Tkinder GUI kütüphanesi kullanılarak yazdığım bir kitaplık uygulaması.
 
 
 Windows işletim sisteminde kullanmak için,uygulamanın exe halini de **CalistirilabilirUygulama** klasöründen indirip kullanabilirsiniz.
