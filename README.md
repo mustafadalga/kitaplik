@@ -1,4 +1,4 @@
-# kitaplik
+# Kitaplık
 Python'un Tkinder GUI kütüphanesi kullanılarak yazdığım bir kitaplık uygulaması.
 
 
